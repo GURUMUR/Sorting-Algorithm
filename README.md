@@ -65,8 +65,10 @@ print(list_of_nums)
 ```
 
 ## Output:
-![out1](SELECTION_SORT.png)
-![out2](INSERTION_SORT.png)
+
+![SELECTION_SORT](https://github.com/GURUMUR/Sorting-Algorithm/assets/144895197/4be0a7d1-f9e1-4358-9f3f-997e8cd1fd05)
+![INSERTION_SORT](https://github.com/GURUMUR/Sorting-Algorithm/assets/144895197/932b89d5-c802-4ad7-b417-2d4a48612969)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
+
